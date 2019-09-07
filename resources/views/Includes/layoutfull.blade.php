@@ -1,0 +1,5 @@
+@include('Includes.head')
+@include('Includes.header')
+@yield('content')
+@include('Includes.footer')
+@include('Includes.scripts')
