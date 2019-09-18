@@ -34,7 +34,7 @@ Lecremè, é o amor posto em cada chocolate.
                         <p>
                             Com intuito de levar uma nova onda de sabores<br> e doçura, o LeCreme te oferece uma nova<br> evolução do chocolate, com nossas raízes<br> brasileiras e a sofisticação advinda da suíça
                         </p>
-                        <img class="img-fluid" src="img/signature.png" alt="">
+{{--                        <img class="img-fluid" src="img/signature.png" alt="">--}}
                     </div>
                 </div>
             </div>
@@ -53,17 +53,17 @@ Lecremè, é o amor posto em cada chocolate.
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4" data-aos="fade-down">
+                <div class="col-lg-4" data-aos="fade-left">
                     <div class="single-menu">
-                        <a href="img/lecreme2.png" class="img-pop-home">
-                            <img class="img-fluid" src="img/lecreme2.png" alt="">
+                        <a href="img/g3.png" class="img-pop-home">
+                            <img class="img-fluid" src="img/g3.png" alt="">
                         </a>
                         <hr>
                         <div class="title-div justify-content-between d-flex">
-                            <h4>Trufa Lecoffee</h4>
+                            <h4>Tablete Suíço</h4>
                             <p class="price float-right">
-                                R$49,00
-                                <small class='text-muted'>kg</small>
+                                R$54,90
+                                <small class='text-muted'>180gr</small>
                             </p>
                         </div>
                     </div>
@@ -77,36 +77,22 @@ Lecremè, é o amor posto em cada chocolate.
                         <div class="title-div justify-content-between d-flex">
                             <h4>Fondue Lecremè</h4>
                             <p class="price float-right">
-                                R$49,00
+                                EM BREVE
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4" data-aos="fade-down">
                     <div class="single-menu">
-                        <a href="img/g4.jpg" class="img-pop-home">
-                            <img class="img-fluid" src="img/g4.jpg" alt="">
+                        <a href="img/lecreme2.png" class="img-pop-home">
+                            <img class="img-fluid" src="img/lecreme2.png" alt="">
                         </a>
                         <hr>
                         <div class="title-div justify-content-between d-flex">
-                            <h4>Cafézao</h4>
+                            <h4>Trufa Lecoffee</h4>
                             <p class="price float-right">
-                                R$49,00
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4" data-aos="fade-left">
-                    <div class="single-menu">
-                        <a href="img/g3.png" class="img-pop-home">
-                            <img class="img-fluid" src="img/g3.png" alt="">
-                        </a>
-                        <hr>
-                        <div class="title-div justify-content-between d-flex">
-                            <h4>Tablete Suíço</h4>
-                            <p class="price float-right">
-                                R$49,90
-                                <small class='text-muted'>120gr</small>
+                                EM BREVE
+{{--                                <small class='text-muted'>kg</small>--}}
                             </p>
                         </div>
                     </div>
@@ -120,8 +106,22 @@ Lecremè, é o amor posto em cada chocolate.
                         <div class="title-div justify-content-between d-flex">
                             <h4>Nutlè</h4>
                             <p class="price float-right">
-                                R$49,85
-                                <small class='text-muted'>un</small>
+                                EM BREVE
+                                {{--                                <small class='text-muted'>un</small>--}}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4" data-aos="fade-down">
+                    <div class="single-menu">
+                        <a href="img/g4.jpg" class="img-pop-home">
+                            <img class="img-fluid" src="img/g4.jpg" alt="">
+                        </a>
+                        <hr>
+                        <div class="title-div justify-content-between d-flex">
+                            <h4>Cafézao</h4>
+                            <p class="price float-right">
+                                EM BREVE
                             </p>
                         </div>
                     </div>
@@ -135,8 +135,8 @@ Lecremè, é o amor posto em cada chocolate.
                         <div class="title-div justify-content-between d-flex">
                             <h4>Cacau 40</h4>
                             <p class="price float-right">
-                                R$9,90
-                                <small class='text-muted'>100gr</small>
+                                EM BREVE
+{{--                                <small class='text-muted'>100gr</small>--}}
                             </p>
                         </div>
                     </div>
@@ -162,7 +162,7 @@ Lecremè, é o amor posto em cada chocolate.
                          style='width: 100px;'
                     >
                     <div class="title d-flex flex-row">
-                        <h4>Fausto Corporation</h4>
+                        <h4>Fausto Junior</h4>
                         <div class="star">
                             <span class="fa fa-star checked"></span>
                             <span class="fa fa-star checked"></span>
@@ -172,7 +172,7 @@ Lecremè, é o amor posto em cada chocolate.
                         </div>
                     </div>
                     <p>
-                        Chocolate mó bonzão, qnd eu comi fiquei com tanta energia que EU SAI CORRENDO IGUAL UM LOCO MALUCO. Nota maxima adorei amei.
+                        Chocolate muito bom, recomendo. Estou ansioso para o lançamento do Nutlè.
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-6 single-review">
@@ -182,7 +182,7 @@ Lecremè, é o amor posto em cada chocolate.
                          style='width: 100px;'
                     >
                     <div class="title d-flex flex-row">
-                        <h4>Wilson Enterprise</h4>
+                        <h4>Wilson Junior</h4>
                         <div class="star">
                             <span class="fa fa-star checked"></span>
                             <span class="fa fa-star checked"></span>
@@ -192,7 +192,7 @@ Lecremè, é o amor posto em cada chocolate.
                         </div>
                     </div>
                     <p>
-                        EU QUERO CASAR COM A WALESKA NO FINAL DO ANO TODOS CONVIDADOS UMA FOLIA LOKA VAI ACONTECER. <br>
+                        Chocolate maravilhoso, nunca tinha experimentado nada assim. Espero que os próximos produtos da marca não demorem a lançar. <br>
                 </div>
             </div>
         </div>
